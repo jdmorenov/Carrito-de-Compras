@@ -1,5 +1,7 @@
- Trabajo de equipo
+ Trabajo en equipo
+ 
 Proyecto desarrollado en equipo como parte del curso Lenguaje de Programación II.
+
 Mi participación principal:
 
 - Desarrollo de controladores (LoginController, RegistroController)
